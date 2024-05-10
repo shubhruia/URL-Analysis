@@ -34,7 +34,7 @@ nltk.download('stopwords')
    - Execute the script `main.py`.
 
 ```bash
-python article_text_analysis.py
+python main.py
 ```
 
 3. **Output**:
